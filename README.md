@@ -9,7 +9,7 @@
         <td style="border: none;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
             <br>
-            <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
+            <img width='350' src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
         </td>
     </tr>
 </table>
