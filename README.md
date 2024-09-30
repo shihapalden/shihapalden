@@ -26,7 +26,7 @@
     <a href="https://linkedin.com/in/shehab-a-45a2491b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/shihapaldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     <a href="https://www.chess.com/member/shihapaldin" target="blank">
-        <img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/e/e1/Chess_icon.svg](https://www.iconsdb.com/icons/preview/green/chess-22-xxl.png)" alt="Chess" height="30" width="30" />
+        <img align="center" src="[[https://upload.wikimedia.org/wikipedia/commons/e/e1/Chess_icon.svg](https://www.iconsdb.com/icons/preview/green/chess-22-xxl.png)](https://img.icons8.com/?size=100&id=C5LTcmsc3cr0&format=png&color=000000)" alt="Chess" height="30" width="30" />
     </a>
 </p>
 
