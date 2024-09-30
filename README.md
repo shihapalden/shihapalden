@@ -25,7 +25,9 @@
     <a href="https://twitter.com/shihapalden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/shehab-a-45a2491b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/shihapaldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://www.chess.com/member/shihapaldin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Chess_Pawn_Icon.svg" alt="Chess" height="30" width="30" /></a>
+    <a href="https://www.chess.com/member/shihapaldin" target="blank">
+        <img align="center" src="https://www.pngitem.com/pimgs/m/152-1527524_silhouette-staunton-chess-piece-pawn-pen-clip-arts.png" alt="Chess" height="30" width="30" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
