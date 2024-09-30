@@ -5,9 +5,8 @@
     <div style="margin-right: 20px;">
         <img alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHB5OW94MjE3Ym5ibHU5eTB0M2N6amt3dzh5Z3JvZ3NuOHZ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp">
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-        <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
     </div>
 </div>
