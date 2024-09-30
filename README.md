@@ -22,7 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="shihapalden" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="shihapalden" /></p>
-
-
-
-make the alignment and the icons better
