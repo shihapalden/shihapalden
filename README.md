@@ -9,7 +9,7 @@
         <td style="border: none;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
             <br>
-            <img width='300' src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
         </td>
     </tr>
 </table>
@@ -25,7 +25,7 @@
     <a href="https://twitter.com/shihapalden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/shehab-a-45a2491b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/shihapaldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://www.chess.com/member/shihapaldin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Chess_icon.svg" alt="Chess" height="30" width="30" /></a>
+    <a href="https://www.chess.com/member/shihapaldin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Chess_Pawn_Icon.svg" alt="Chess" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
