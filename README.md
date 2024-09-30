@@ -14,24 +14,19 @@
     </tr>
 </table>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=shihapalden&label=Profile%20views&color=0e75b6&style=flat" alt="shihapalden" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihapalden&label=Profile%20views&color=0e75b6&style=flat" alt="shihapalden" /> </p>
 
 - 💬 Ask me about **AI, machine learning algorithms, deep learning, and NLP techniques.**
 - 📫 How to reach me: **shehabaldenfadalalla@gmail.com**
 - ⚡ Fun fact: **I love playing chess.**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/shihapalden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/shehab-a-45a2491b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://instagram.com/shihapaldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+    <a href="https://www.chess.com/member/shihapaldin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Chess_icon.svg/1024px-Chess_icon.svg.png" alt="Chess" height="30" width="30" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,11 +48,23 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+        <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    </a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/>
+    </a>
+    <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="ggplot" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microsoft_Excel_Logo.svg/1200px-Microsoft_Excel_Logo.svg.png" alt="excel" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -65,22 +72,7 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-    </a>
 </p>
-
----
-
-<h3 align="left">Interesting Facts:</h3>
-<ul>
-    <li>🔍 I love exploring new AI technologies.</li>
-    <li>🌍 Passionate about leveraging technology for social good.</li>
-    <li>🎮 Avid gamer who enjoys strategy and puzzle games.</li>
-</ul>
