@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shehab Al-Shami</h1>
+<h1 align="center">Hi there👋!, I'm Shehab Al-Shami</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
     <tr>
         <td style="padding-right: 20px;">
             <img alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHB5OW94MjE3Ym5ibHU5eTB0M2N6amt3dzh5Z3JvZ3NuOHZ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp">
