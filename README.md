@@ -7,7 +7,7 @@
             <img alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdHB5OW94MjE3Ym5ibHU5eTB0M2N6amt3dzh5Z3JvZ3NuOHZ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp">
         </td>
         <td>
-            <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+            <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihapalden&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
             <br>
             <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=shihapalden&" alt="Streak Stats" />
         </td>
